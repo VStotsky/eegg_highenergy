@@ -1,0 +1,6 @@
+(*
+  Born hard massive invariant amplitudes at small qq=q^2/s.
+  Format: {H(1),H(2),H(3),H(4),H(5),H(6),H(7)}, where H(n) denotes $\widehat{H}_{n}^{(0)}$.
+  Notations:  T=-t/s, qq=1-T-U.
+*)
+{0, 0, 0, 0, 1, 1 - 2*T, 1/((1 - T)*T)}

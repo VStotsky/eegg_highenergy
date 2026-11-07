@@ -1,0 +1,13 @@
+Print["This is W+2*Re(V) for \
+\!\(\*SuperscriptBox[\(e\), \(+\)]\)\!\(\*SuperscriptBox[\(e\), \
+\(-\)]\)->2\[Gamma] in Eq.(2.20)"]
+SeriesData[m, 0, {-2*(2 + lmm + 4*log2\[Omega]0 + 4*lmm*log2\[Omega]0 - 
+    4*MZV[2]), 0, -4*(-1 + 7*lmm + 4*log2\[Omega]0), 0, 
+  -2*(19 + 36*lmm + 12*log2\[Omega]0 + 8*lmm*log2\[Omega]0 - 8*MZV[2]), 0, 
+  (-4*(311 + 594*lmm + 192*log2\[Omega]0 + 144*lmm*log2\[Omega]0 - 
+     144*MZV[2]))/9, 0, -2*(272 + 499*lmm + 158*log2\[Omega]0 + 
+    120*lmm*log2\[Omega]0 - 120*MZV[2]), 0, 
+  (-2*(244823 + 428940*lmm + 132960*log2\[Omega]0 + 
+     100800*lmm*log2\[Omega]0 - 100800*MZV[2]))/225, 0, 
+  (-4*(98087 + 164895*lmm + 50070*log2\[Omega]0 + 37800*lmm*log2\[Omega]0 - 
+     37800*MZV[2]))/45}, 0, 13, 1]

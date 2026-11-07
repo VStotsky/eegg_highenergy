@@ -1,0 +1,13 @@
+Print["Born massive invariant amplitudes.\n Format - double array of \
+invariant amplitude number and m-series coefficient.\n Series starts \
+from \!\(\*SuperscriptBox[\(m\), \(0\)]\).\n Notations: \
+T=\!\(\*FractionBox[\(\*SuperscriptBox[SubscriptBox[\(m\), \(e\)], \
+\(2\)] - t\), \(s\)]\), m=\!\(\*FractionBox[SubscriptBox[\(m\), \
+\(e\)], SqrtBox[\(s\)]]\)."]
+{{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}, {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+  0, 0}, {(-1 + T)*T, 0, 2, 0, 1/((-1 + T)*T), 0, 0, 0, 0, 0, 0, 0, 0}, 
+ {-((-1 + T)*T), 0, -2, 0, -(1/((-1 + T)*T)), 0, 0, 0, 0, 0, 0, 0, 0}, 
+ {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}, {((-1 + T)*T)/(-1 + 2*T)^2, 0, 
+  2/(-1 + 2*T)^2, 0, 1/((-1 + T)*T*(-1 + 2*T)^2), 0, 0, 0, 0, 0, 0, 0, 0}, 
+ {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}, {-1/4*((-1 + T)*T), 0, -1/2, 0, 
+  -1/4*1/((-1 + T)*T), 0, 0, 0, 0, 0, 0, 0, 0}}

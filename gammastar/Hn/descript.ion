@@ -1,0 +1,41 @@
+<|"Hn.0" -> "  Born hard massive invariant amplitudes.\n  Format: \
+{H(1),H(2),H(3),H(4),H(5),H(6),H(7)}, where H(n) denotes \
+$\\widehat{H}_{n}^{(0)}$.\n  Notations:  T=-t/s, U=-u/s", 
+ "Hn.1" -> "  One-loop hard massive invariant amplitudes.\n  Format: \
+{H(1),H(2),H(3),H(4),H(5),H(6),H(7)}, where H(n) denotes \
+$\\widehat{H}_{n}^{(1)}$.\n  Notations:  T=-t/s, U=-u/s, mm=m^2/s\n  Flag \
+Nf=1 marks the contributions coming from diagrams with fermionic loop.", 
+ "Hn.2" -> "  Two-loop hard massive invariant amplitudes.\n  Format: \
+{H(1),H(2),H(3),H(4),H(5),H(6),H(7)}, where H(n) denotes \
+$\\widehat{H}_{n}^{(2)}$.\n  Notations:  T=-t/s, U=-u/s, mm=m^2/s\n  Flag \
+Nf=1 marks the contributions coming from diagrams with fermionic loop.\n  \
+Additional flag LbL=1 marks the contribution from light-by-light diagrams.", 
+ "Hn.smallqq.0" -> "  Born hard massive invariant amplitudes at small \
+qq=q^2/s.\n  Format: {H(1),H(2),H(3),H(4),H(5),H(6),H(7)}, where H(n) denotes \
+$\\widehat{H}_{n}^{(0)}$.\n  Notations:  T=-t/s, qq=1-T-U.", 
+ "Hn.smallqq.1" -> "  One-loop hard massive invariant amplitudes at small \
+qq=q^2/s.\n  Format: {H(1),H(2),H(3),H(4),H(5),H(6),H(7)}, where H(n) denotes \
+$\\widehat{H}_{n}^{(1)}$.\n  Notations:  T=-t/s, qq=1-T-U, \
+\[Mu]\[Mu]=\[Mu]^2/s\n  Flag Nf=1 marks the contributions coming from \
+diagrams with fermionic loop.", "Hn.smallqq.2" -> "  Two-loop hard massive \
+invariant amplitudes at small qq=q^2/s.\n  Format: \
+{H(1),H(2),H(3),H(4),H(5),H(6),H(7)}, where H(n) denotes \
+$\\widehat{H}_{n}^{(2)}$.\n  Notations:  T=-t/s, qq=1-T-U, \
+\[Mu]\[Mu]=\[Mu]^2/s\n  Flag Nf=1 marks the contributions coming from \
+diagrams with fermionic loop.\n  Additional flag LbL=1 marks the contribution \
+from light-by-light diagrams.", "Hn.smallT.0" -> "  Born hard massive \
+invariant amplitudes at small T.\n  Format: \
+{H(1),H(2),H(3),H(4),H(5),H(6),H(7)}, where H(n) denotes \
+$\\widehat{H}_{n}^{(0)}$.\n  Notations:  T=-t/s, U=-u/s.", 
+ "Hn.smallT.1" -> "  One-loop hard massive invariant amplitudes at small T.\n \
+ Format: {H(1),H(2),H(3),H(4),H(5),H(6),H(7)}, where H(n) denotes \
+$\\widehat{H}_{n}^{(1)}$.\n  Notations:  T=-t/s, U=-u/s, \
+\[Mu]\[Mu]=\[Mu]^2/s\n  Flag Nf=1 marks the contributions coming from \
+diagrams with fermionic loop.\n  H[{n1,...},U] denotes harmonic \
+polylogarithm.", "Hn.smallT.2" -> "  Two-loop hard massive invariant \
+amplitudes at small T.\n  Format: {H(1),H(2),H(3),H(4),H(5),H(6),H(7)}, where \
+H(n) denotes $\\widehat{H}_{n}^{(2)}$.\n  Notations:  T=-t/s, U=-u/s, \
+\[Mu]\[Mu]=\[Mu]^2/s\n  Flag Nf=1 marks the contributions coming from \
+diagrams with fermionic loop.\n  Additional flag LbL=1 marks the contribution \
+from light-by-light diagrams.\n  H[{n1,...},U] denotes harmonic \
+polylogarithm."|>
