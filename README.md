@@ -38,7 +38,7 @@ All three files have the same format and store the results as lists of the coeff
 
 ### `anc/Hn/Hnsmallqq.l`
 
-The hard amplitudes from Fadin et al. (`fadin2023two` in the manuscript), with `l = 0, 1, 2`. These files are supplied as input for the numerical comparison with the results of this work.
+The hard amplitudes from Fadin&Lee (https://arxiv.org/abs/2308.09479 in the manuscript), with `l = 0, 1, 2`. These files are supplied as input for the numerical comparison with the results of this work.
 
 ### `CSEvaluation.nb`
 
@@ -47,4 +47,4 @@ A Mathematica notebook for:
 - evaluating the hard amplitudes;
 - constructing the unpolarized differential cross section;
 - reproducing the plots presented in the paper;
-- performing the numerical comparison with the hard amplitudes from Fadin et al.
+- performing the numerical comparison with the hard amplitudes from Fadin&Lee.
