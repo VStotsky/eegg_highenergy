@@ -23,7 +23,7 @@ The matrix constructed from the tensor structures used to extract the invariant 
 ### `W2V`
 
 The combination
-$\mathcal{W}(\omega_0)+2\operatorname{Re}\mathcal{V}$
+$\mathcal{W}(\omega_0)+2\Re\mathcal{V}$
 entering the differential cross section.
 
 ### `deltas/`
