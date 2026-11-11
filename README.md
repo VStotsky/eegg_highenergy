@@ -50,4 +50,4 @@ A Mathematica notebook for:
 
 ## Massive master integrals
 
-The archive `MassiveMasters.zip` contains all files required to construct small-mass expansions of the master integrals at fixed $T$. A detailed description of each file is provided in the included `Readme.md`. Additionally, the archive contains `Example.nb`, which demonstrates how to compute the small-mass expansions of master integrals.
+The archive `MassiveMasters.zip` contains all files required to construct small-mass expansions of the master integrals at fixed $T$. A detailed description of each file is provided in the included `READMEMASTERS.md`. Additionally, the archive contains `Example.nb`, which demonstrates how to compute the small-mass expansions of master integrals.
